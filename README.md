@@ -1,3 +1,3 @@
 # Swift studies
 
-Repository dedicated to little projects of my Swift studies
+Repository dedicated to small projects from my Swift studies
